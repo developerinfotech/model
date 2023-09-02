@@ -1,9 +1,9 @@
 {   
-   "AdsType": "Facebook",
+   "AdsType": "Applovin",
    "Count_inte": "0",
    "Count_banner": "0",
    "Count_native": "0",
-   "Count_native_banner": "100",
+   "Count_native_banner": "1000",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "ca-app-pub-3940256099942544/3419835294",
    "AdMob_BannerAdId": "ca-app-pub-3940256099942544/6300978111",
