@@ -1,9 +1,9 @@
 {   
-   "AdsType": "Facebook",
-   "Count_inte": "0",
-   "Count_banner": "0",
-   "Count_native": "0",
-   "Count_native_banner": "100",
+   "AdsType": "Admob",
+   "Count_inte": "10000",
+   "Count_banner": "10000",
+   "Count_native": "10000",
+   "Count_native_banner": "10000",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "ca-app-pub-3940256099942544/3419835294",
    "AdMob_BannerAdId": "ca-app-pub-3940256099942544/6300978111",
@@ -25,6 +25,8 @@
    "Applovin_NativeBannerAdId": "9930e17b224c4b7e",
    "Applovin_RewardedAdId": "71f72a7a29224f0b",
    "ChackUpdate": "false",
-   "Policy": "https://google.com",
-   "VPN": "false"
+   "Policy": "https://sites.google.com/view/finddiamonds",
+   "VPN": "false",
+   "firstInterFlag": "true"
+   
 }
