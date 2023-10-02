@@ -5,6 +5,7 @@
    "firstAppOpenFlag":"true",
    "appOpenFlag":"false",
    "oneAdFlag":"true",
+   "versionCode": 1,
    "Count_inte": "0",
    "Count_banner": "0",
    "Count_native": "0",
@@ -15,6 +16,7 @@
    "AdMob_BannerAdId": "/6499/example/banner",
    "AdMob_InterstitialAdId": "/6499/example/interstitial",
    "AdMob_NativeAdId": "/6499/example/native",
+   "AdMob_NativeBannerAdId": "/6499/example/native",
    "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
    "Applovin_BannerAdId": "3847b58f7b8c4f9e",
    "Applovin_InterstitialAdId": "93a7c19b8f7746f7",
@@ -32,4 +34,5 @@
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
    "VPN": "false"
+
 }
