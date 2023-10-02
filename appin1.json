@@ -27,9 +27,9 @@
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
    "Applovin_BannerAdId": "3847b58f7b8c4f9e",
-   "Applovin_InterstitialAdId": "cd90a436440234d7",
-   "Applovin_NativeAdId": "203fd2796acd4259",
-   "Applovin_NativeBannerAdId": "e44f354b848c0014",
+   "Applovin_InterstitialAdId": "908e14927ecabe01",
+   "Applovin_NativeAdId": "52b24a628a868d83",
+   "Applovin_NativeBannerAdId": "329312e9c78b21e8",
    "Applovin_RewardedAdId": "71f72a7a29224f0b",
    "VPN": "false"
 }
