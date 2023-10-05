@@ -19,9 +19,9 @@
    "AdMob_NativeBannerAdId": "/6499/example/native",
    "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
    "Applovin_BannerAdId": "3847b58f7b8c4f9e",
-   "Applovin_InterstitialAdId": "75d36f10fb2b3f5f",
-   "Applovin_NativeAdId": "3b2d51fb55e2ced0",
-   "Applovin_NativeBannerAdId": "0d410d382ac9b136",
+   "Applovin_InterstitialAdId": "930bbf3375490b3a",
+   "Applovin_NativeAdId": "b58470e2ce97a7c3",
+   "Applovin_NativeBannerAdId": "195d4c82dae68b5a",
    "Applovin_RewardedAdId": "71f72a7a29224f0b",
    "FB_AppId": "",
    "FB_BannerAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -34,5 +34,4 @@
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
    "VPN": "false"
-
 }
