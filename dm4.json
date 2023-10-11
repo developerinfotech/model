@@ -1,7 +1,7 @@
 {   
    "AdsType": "Applovin",
    "ChackUpdate": "false",
-   "firstInterFlag":"false",
+   "firstInterFlag":"true",
    "firstAppOpenFlag":"false",
    "appOpenFlag":"false",
    "oneAdFlag":"false",
