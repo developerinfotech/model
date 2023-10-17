@@ -1,7 +1,7 @@
 {   
    "AdsType": "Applovin",
-   "ChackUpdate": "false",
    "firstInterFlag":"false",
+   "interFlag":"false",
    "firstAppOpenFlag":"false",
    "appOpenFlag":"false",
    "oneAdFlag":"false",
@@ -11,6 +11,7 @@
    "Count_native": "0",
    "Count_native_banner": "0",
    "Policy": "https://sites.google.com/view/pr-infotech-policy/home",
+   "ChackUpdate": "false",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "6499/example/app-open",
    "AdMob_BannerAdId": "/6499/example/banner",
