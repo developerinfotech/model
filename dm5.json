@@ -1,7 +1,7 @@
 {   
    "AdsType": "Facebook",
    "firstInterFlag":"false",
-   "interFlag":"true",
+   "interFlag":"false",
    "firstAppOpenFlag":"false",
    "appOpenFlag":"false",
    "oneAdFlag":"false",
