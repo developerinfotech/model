@@ -1,5 +1,5 @@
 {   
-   "AdsType": "Applovin",
+   "AdsType": "Facebook",
    "ChackUpdate": "false",
    "firstInterFlag":"false",
    "firstAppOpenFlag":"false",
@@ -25,7 +25,7 @@
    "FB_AppId": "",
    "FB_BannerAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
    "FB_InterstitialAdId": "643666911087750_643668704420904",
-   "FB_NativeAdId": "643666911087750_643668564420918", 
+   "FB_NativeAdId": "643666911087750_643668564420918",
    "FB_NativeBannerAdId": "643666911087750_643668641087577",
    "FB_RewardedAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
    "Unity_AdId": "5598524",
