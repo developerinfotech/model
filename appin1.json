@@ -1,6 +1,6 @@
 {   
-   "versionCode": 3,
-   "AdsType": "Applovin",
+   "versionCode": 4,
+   "AdsType": "Admob",
    "firstInterFlag":"false",
    "interFlag":"false",
    "backInterFlag":"false",
@@ -10,7 +10,7 @@
    "resumeAdFlag":"false",
    "preloadAdFlag":"false",
    "Count_inte": "0",
-   "Count_banner": "10000",
+   "Count_banner": "0",
    "Count_native": "0",
    "Count_native_banner": "0",
    "Policy": "https://sites.google.com/view/finddiamonds",
