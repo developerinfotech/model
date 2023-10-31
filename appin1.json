@@ -1,10 +1,10 @@
 {   
    "versionCode": 4,
-   "AdsType": "Admob",
+   "AdsType": "Applovin",
    "firstInterFlag":"false",
    "interFlag":"false",
    "backInterFlag":"false",
-   "firstAppOpenFlag":"true",
+   "firstAppOpenFlag":"false",
    "appOpenFlag":"false",
    "oneAdFlag":"false",
    "resumeAdFlag":"false",
